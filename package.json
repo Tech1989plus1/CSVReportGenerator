@@ -1,0 +1,23 @@
+{
+  "name": "CSVReportGenerator",
+  "version": "1.0.0",
+  "description": "### Use Express to build a client-server app that generates CSV reports from JSON data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tech1989plus1/CSVReportGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tech1989plus1/CSVReportGenerator/issues"
+  },
+  "homepage": "https://github.com/Tech1989plus1/CSVReportGenerator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
